@@ -1,16 +1,20 @@
 # flutter_native_pip_mode
 
-A new Flutter project.
+🚀 Just Built a Native PIP (Picture-in-Picture) Feature! 🎥✨
 
-## Getting Started
+Excited to share how we implemented native PIP functionality in our Flutter app! 🛠️📱
 
-This project is a starting point for a Flutter application.
+🔹 What We Achieved:
+✅ Seamless PIP Mode – Runs even when minimized!
+✅ Custom Aspect Ratio (3:4 Portrait Style) 📐
+✅ Fixed Window Size (300x400) for consistency 📏
+✅ Android Oreo+ Support (API 26+) 🔝
 
-A few resources to get you started if this is your first Flutter project:
+🔹 Tech Stack:
+📌 Flutter + Kotlin for native Android integration
+📌 MethodChannel for Flutter ↔ Native communication
+📌 PictureInPictureParams for precise control
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🔹 Why It Matters:
+🎯 Enhances UX for video/map apps (like Rapido!)
+🎯 Boosts multitasking efficiency
